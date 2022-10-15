@@ -1,0 +1,162 @@
+﻿  Iluvitar.cpp
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(1,10): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(1,24): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(2,10): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(2,24): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(3,10): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(3,24): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(4,10): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(4,24): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(5,10): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(5,24): warning C4309: 'initializing': truncation of constant value
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(14,9): error C3861: 'mainmenu': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(15,14): error C2039: 'cin': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(15,18): error C2065: 'cin': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(19,13): error C3861: 'gamesmenu': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(20,18): error C2039: 'cin': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(20,22): error C2065: 'cin': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(24,13): error C3861: 'mathsmenu': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(25,18): error C2039: 'cin': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(25,22): error C2065: 'cin': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(29,13): error C3861: 'animationsmenu': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(30,18): error C2039: 'cin': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(30,22): error C2065: 'cin': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(34,13): error C3861: 'triviamenu': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(35,18): error C2039: 'cin': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(35,22): error C2065: 'cin': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(42,13): error C3861: 'system': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(43,18): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\Iluvitar.cpp(43,23): error C2065: 'cout': undeclared identifier
+  routines.cpp
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(3,5): error C3861: 'system': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(4,5): error C3861: 'system': identifier not found
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(5,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(5,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,18): error C2065: 'A': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,23): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,28): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,33): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,38): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,43): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,48): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,53): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,58): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,63): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,68): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,73): error C2065: 'B': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,83): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(6,87): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,36): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,57): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,67): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(7,71): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,42): error C2065: 'A': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,47): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,52): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,57): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,62): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,67): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,72): error C2065: 'e': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,77): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,82): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,87): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,92): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,97): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,102): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,107): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,112): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,117): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,122): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,127): error C2065: 'e': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,132): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,137): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,142): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,147): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,152): error C2065: 'c': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,157): error C2065: 'B': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,167): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(8,171): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(9,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(10,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(11,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(12,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(13,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(14,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(15,89): error C2065: 'endl': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,10): error C2039: 'cout': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,15): error C2065: 'cout': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,42): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,75): error C2065: 'C': undeclared identifier
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,85): error C2039: 'endl': is not a member of 'std'
+D:\C Projects\Iluvitar\Iluvitar\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+D:\C Projects\Iluvitar\Iluvitar\routines.cpp(16,89): fatal  error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
